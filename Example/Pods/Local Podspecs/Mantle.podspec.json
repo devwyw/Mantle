@@ -1,0 +1,22 @@
+{
+  "name": "Mantle",
+  "version": "0.1.0",
+  "summary": "A short description of Mantle.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weiyanwu/Mantle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weiyanwu": "weiyanwu@koolearn-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/weiyanwu/Mantle.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Mantle/Classes/**/*"
+}

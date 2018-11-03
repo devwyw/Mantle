@@ -1,0 +1,6 @@
+framework module Pods_Mantle_Tests {
+  umbrella header "Pods-Mantle_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

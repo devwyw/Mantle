@@ -1,0 +1,16 @@
+PODS:
+  - Mantle (0.1.0)
+
+DEPENDENCIES:
+  - Mantle (from `../`)
+
+EXTERNAL SOURCES:
+  Mantle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mantle: 2d6c82e4e38224dc2f25876c310d63de4d13e940
+
+PODFILE CHECKSUM: 021cac265cb4d53684eb209d65c4aa6a73f9b48d
+
+COCOAPODS: 1.6.0.beta.2
